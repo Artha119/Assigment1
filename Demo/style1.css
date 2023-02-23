@@ -1,0 +1,11 @@
+.content{
+    margin-top: 200px;
+    background-color: aqua;
+}
+
+.box-content{
+    background-color: burlywood;
+    margin: 75px;
+    border: 30px solid #333333;
+    padding: 20px;
+}

@@ -1,0 +1,107 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+.grid-item{
+    background-color: #58D68D;
+    padding: 10px;
+    text-align: center;
+}
+
+.item{
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+    border: 5px solid #1a3462;
+    border-radius: 60px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.item2{
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.grid-container1 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: black;
+    padding: 1px;
+}
+
+.grid-item1 {
+    background-color: #F7DC6F;
+    padding: 10px;
+    text-align: center;
+}
+.grid-container2 {
+    display: grid;
+    grid-template-columns: auto;
+    background-color: black;
+    border-radius: 10px;
+    padding: 1px;
+}
+.grid-item2 {
+    background-color: #85C1E9;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.button-hover{
+    background-color: #3498DB;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    border-color: #3498DB;
+}
+
+.grid-container3 {
+    display: grid;
+    background-color: black;
+    padding: 1px;
+    border-color: #333333;
+    border: 10px;
+}
+
+.grid-item3 {
+    background-color: white;
+    padding: 10px;
+}
+
+.grid-item4 {
+
+    padding: 10px;
+    text-align: left;
+}
+
+.grid-container4 {
+    display: grid;
+    grid-template-columns:auto auto;
+    padding: 1px;
+
+}
+
+.grid-item5 {
+background-color: white;
+    padding: 10px;
+    text-align: center;
+}
+.button1 {
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 20px;
+    border-radius: 60%;
+    text-align: center;
+    text-decoration: none;
+}
